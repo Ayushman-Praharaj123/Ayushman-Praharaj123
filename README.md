@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full stack devloper and my tech stack is mern stack and i am lerarning Pyton dsa with java and Python and Mloops<br>
+👋 Hi, I’m Ayushman Praharaj 🎓 B.Tech CSE (AI & ML) @ NIST University (Batch 2028) 💻 Full Stack Developer | 🔍 AI/ML Explorer 
 
 
 ## 🌐 Socials:
